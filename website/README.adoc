@@ -1,0 +1,4 @@
+= Prove GitHub pages
+
+Read this on the https://amagnolo.github.com/prove[website].
+

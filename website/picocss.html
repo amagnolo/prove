@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+	<title>Test Pico CSS</title>
+</head>
+<body>
+<main class="container">
+	<h1>Hello Pico CSS</h1>
+
+	<section>
+		<h2>griglia</h2>
+		<div class="grid">
+			<div>grid 1</div>
+			<div>grid 2</div>
+			<div>grid 3</div>
+			<div>grid 4</div>
+		</div>
+	</section>
+
+	<section>
+		<h2>tabella</h2>
+		<figure>
+			<table role="grid">
+				<thead>
+				<tr>
+					<th scope="col">#</th>
+					<th scope="col">Heading</th>
+					<th scope="col">Heading</th>
+					<th scope="col">Heading</th>
+					<th scope="col">Heading</th>
+					<th scope="col">Heading</th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr>
+					<th scope="row">1</th>
+					<td>Cell</td>
+					<td>Cell</td>
+					<td>Testo lungo</td>
+					<td>Altro testo lungo</td>
+					<td>Cell</td>
+				</tr>
+				<tr>
+					<th scope="row">1</th>
+					<td>Prova lungo</td>
+					<td>Cell</td>
+					<td>Cell</td>
+					<td>Cell</td>
+					<td>Cell</td>
+				</tr>
+				<tr>
+					<th scope="row">1</th>
+					<td>Cell</td>
+					<td>Cell</td>
+					<td>Cell</td>
+					<td>Cell Cell Cell Cell Cell</td>
+					<td>Cell</td>
+				</tr>
+				</tbody>
+				<tfoot>
+				<tr>
+					<th scope="col">#</th>
+					<td>Total</td>
+					<td>Total</td>
+					<td>Total</td>
+					<td>Total</td>
+					<td>Total</td>
+				</tr>
+				</tfoot>
+			</table>
+		</figure>
+	</section>
+
+</main>
+</body>
+</html>
