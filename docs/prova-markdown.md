@@ -24,3 +24,9 @@ See [GitHub Flavored Markdown Cheat Sheet](https://gist.github.com/Myndex/5140d6
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+test video
+
+<video src="https://github.com/user-attachments/assets/3a7d19cc-2d9e-4920-a6d7-a16e656a3b36" controls></video>
+
+fine video
