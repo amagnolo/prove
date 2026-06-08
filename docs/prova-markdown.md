@@ -56,5 +56,4 @@ fine video
 	<sub>Free · no account · no ads · no tracking</sub>
 </p>
 
-
-sasasdas
+Repo url: {{ site.github.repository_url }}
