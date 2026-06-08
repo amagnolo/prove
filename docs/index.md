@@ -26,3 +26,18 @@ test video
 <video src="https://github.com/user-attachments/assets/3a7d19cc-2d9e-4920-a6d7-a16e656a3b36" controls></video>
 
 fine video
+
+video attachment
+
+[![SimpliCity promo video](images/test.png)](https://github.com/user-attachments/assets/3a7d19cc-2d9e-4920-a6d7-a16e656a3b36)
+
+video release tag
+
+<video controls muted playsinline poster="images/test.png" width="100%" style="max-width: 960px;">
+	<source src="https://github.com/amagnolo/simplicity/releases/download/v1.0.0/SimpliCity.promo.video.mp4" type="video/mp4">
+	<a href="https://github.com/amagnolo/simplicity/releases/download/v1.0.0/SimpliCity.promo.video.mp4">Watch the SimpliCity promo video</a>
+</video>
+
+video release md
+
+[![SimpliCity promo video](images/test.png)](https://github.com/amagnolo/simplicity/releases/download/v1.0.0/SimpliCity.promo.video.mp4)
