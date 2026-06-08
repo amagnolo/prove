@@ -44,7 +44,7 @@ video release md
 
 video release bis
 
-<video controls playsinline width="100%" style="max-width: 960px;">
+<video controls playsinline poster="images/screenshot.png" width="100%" style="max-width: 960px;">
 	<source src="https://github.com/amagnolo/simplicity/releases/download/v1.0.0/SimpliCity.promo.video.mp4" type="video/mp4">
 	<a href="https://github.com/amagnolo/simplicity/releases/download/v1.0.0/SimpliCity.promo.video.mp4">Watch the SimpliCity promo video</a>
 </video>
