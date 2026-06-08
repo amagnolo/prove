@@ -42,7 +42,19 @@ fine video
 	<br>
 	<img src="https://img.shields.io/badge/Download-Linux%20%C2%B7%20Windows%20%C2%B7%20macOS%20%C2%B7%20Java-159957?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5IDloLTRWM0g5djZINWw3IDcgNy03ek01IDE4djJoMTR2LTJINXoiLz48L3N2Zz4=" alt="Download SimpliCity">
 	<br>
-	Free · no account · no ads · no tracking
+	<sub>Free · no account · no ads · no tracking</sub>
 	</a>
 </p>
 
+<p style="text-align: center;">
+	<a href="index.md" title="Download &amp; install SimpliCity">
+	 <img src="images/test.png" alt="Download SimpliCity" style="width: 240px; max-width: 100%; height: auto;">
+	<br>
+	<img src="https://img.shields.io/badge/Download-Linux%20%C2%B7%20Windows%20%C2%B7%20macOS%20%C2%B7%20Java-159957?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5IDloLTRWM0g5djZINWw3IDcgNy03ek01IDE4djJoMTR2LTJINXoiLz48L3N2Zz4=" alt="Download SimpliCity">
+	</a>
+	<br>
+	<sub>Free · no account · no ads · no tracking</sub>
+</p>
+
+
+sasasdas
